@@ -38,21 +38,21 @@ body {
   }
   
   #rock {
-    background-color: #ff0000;
+    background-color:red;
   }
   
   #paper {
-    background-color: #2196f3;
+    background-color:blue;
   }
   
   #scissors {
-    background-color: #4caf50;
+    background-color: green;
   }
   
   #user-score {
-    color: #2196f3;
+    color:blue;
   }
   
   #computer-score {
-    color: #ff0000;
+    color:red;
   }
